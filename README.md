@@ -1,2 +1,2 @@
-# The-simple-route-finding-algorithm
+# The-simple-MATLAB code for route-finding-algorithm
 The starting point is the lower-left corner, which is highlighted in blue. The point of the destination is highlighted in black. We can move 1 unit in each stage and we can only go to the destination through the green dots. The red dots are actually obstacles in the way that we have to somehow get around. The program is supposed to suggest the shortest distance between origin and destination.
